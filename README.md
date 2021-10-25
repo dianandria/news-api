@@ -13,7 +13,7 @@ Run this command to migration and seeding database:
 ### - Generate App Key
 >php artisan key:generate
 
-### - Runnng Project on Local Development Server
+### - Running Project on Local Development Server
 >php artisan serve
 
 ### - Running Unit Test
