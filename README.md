@@ -6,9 +6,15 @@ Rename <b>.env.example</b> file to <b>.env</b> and config your database.
 
 ### Open your terminal and navigate to project root directory
 
+### - Install Composer
+>composer install
+
 ### - Migration and seeding
 Run this command to migration and seeding database:
 >php artisan migrate --seed
+
+### - Generate App Key
+>php artisan key:generate
 
 ### - Runnng Project on Local Development Server
 >php artisan serve
