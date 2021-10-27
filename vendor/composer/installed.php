@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'v7.30.1',
-    'version' => '7.30.1.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '3e06a0f8b1676ca5c055e0e5385e01918588da27',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -45,12 +45,12 @@
     ),
     'doctrine/inflector' => 
     array (
-      'pretty_version' => '2.0.3',
-      'version' => '2.0.3.0',
+      'pretty_version' => '2.0.4',
+      'version' => '2.0.4.0',
       'aliases' => 
       array (
       ),
-      'reference' => '9cf661f4eb38f7c881cac67c75ea9b00bf97b210',
+      'reference' => '8b7ff3e4b7de6b2c84da85637b59fd2880ecaa89',
     ),
     'doctrine/instantiator' => 
     array (
@@ -162,12 +162,12 @@
     ),
     'guzzlehttp/promises' => 
     array (
-      'pretty_version' => '1.5.0',
-      'version' => '1.5.0.0',
+      'pretty_version' => '1.5.1',
+      'version' => '1.5.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => '136a635e2b4a49b9d79e9c8fee267ffb257fdba0',
+      'reference' => 'fe752aedc9fd8fcca3fe7ad05d419d32998a06da',
     ),
     'guzzlehttp/psr7' => 
     array (
@@ -408,12 +408,12 @@
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => 'v7.30.1',
-      'version' => '7.30.1.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '3e06a0f8b1676ca5c055e0e5385e01918588da27',
     ),
     'laravel/tinker' => 
     array (
@@ -728,8 +728,8 @@
     array (
       'provided' => 
       array (
-        0 => '1.0|2.0',
-        1 => '1.0.0 || 2.0.0 || 3.0.0',
+        0 => '1.0.0 || 2.0.0 || 3.0.0',
+        1 => '1.0|2.0',
       ),
     ),
     'psr/simple-cache' => 
@@ -786,12 +786,12 @@
     ),
     'scrivo/highlight.php' => 
     array (
-      'pretty_version' => 'v9.18.1.7',
-      'version' => '9.18.1.7',
+      'pretty_version' => 'v9.18.1.8',
+      'version' => '9.18.1.8',
       'aliases' => 
       array (
       ),
-      'reference' => '05996fcc61e97978d76ca7d1ac14b65e7cd26f91',
+      'reference' => '6d5049cd2578e19a06adbb6ac77879089be1e3f9',
     ),
     'sebastian/code-unit-reverse-lookup' => 
     array (
