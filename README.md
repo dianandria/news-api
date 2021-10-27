@@ -13,10 +13,13 @@ Rename <b>.env.example</b> file to <b>.env</b> and config your database.
 ### - Running Project on Local Development Server
 >composer install
 
+
 >php artisan key:generate
+
 
 Run this command to migration and seeding database:
 >php artisan migrate --seed
+
 
 
 >php artisan serve
